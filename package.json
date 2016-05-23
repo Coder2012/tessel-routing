@@ -9,6 +9,7 @@
   "author": "Neil Brown",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^1.1.3",
     "tiny-router": "^0.1.4"
   }
 }
